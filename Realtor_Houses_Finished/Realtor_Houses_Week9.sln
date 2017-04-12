@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realtor_Houses_Week9", "Realtor_Houses_Week9\Realtor_Houses_Week9.csproj", "{E16E26ED-D9A4-4BB2-8046-8D0DD71DA4DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAttemptLibrary", "ClassAttemptLibrary\ClassAttemptLibrary.csproj", "{D6CF7C13-7194-45C4-ACF0-FAADC33AE64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E16E26ED-D9A4-4BB2-8046-8D0DD71DA4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16E26ED-D9A4-4BB2-8046-8D0DD71DA4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16E26ED-D9A4-4BB2-8046-8D0DD71DA4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16E26ED-D9A4-4BB2-8046-8D0DD71DA4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CF7C13-7194-45C4-ACF0-FAADC33AE64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CF7C13-7194-45C4-ACF0-FAADC33AE64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CF7C13-7194-45C4-ACF0-FAADC33AE64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CF7C13-7194-45C4-ACF0-FAADC33AE64F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

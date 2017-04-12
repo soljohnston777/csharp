@@ -1,0 +1,15 @@
+c:\users\roboto\documents\visual studio 2015\Projects\Realtor_Houses_Week9\ClassAttemptLibrary\bin\Debug\ClassAttemptLibrary.dll
+c:\users\roboto\documents\visual studio 2015\Projects\Realtor_Houses_Week9\ClassAttemptLibrary\bin\Debug\ClassAttemptLibrary.pdb
+c:\users\roboto\documents\visual studio 2015\Projects\Realtor_Houses_Week9\ClassAttemptLibrary\obj\Debug\ClassAttemptLibrary.dll
+c:\users\roboto\documents\visual studio 2015\Projects\Realtor_Houses_Week9\ClassAttemptLibrary\obj\Debug\ClassAttemptLibrary.pdb
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\Realtor_Houses_Week9\ClassAttemptLibrary\obj\Debug\ClassAttemptLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\Realtor_Houses_Week11_for_online\ClassAttemptLibrary\bin\Debug\ClassAttemptLibrary.dll
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\Realtor_Houses_Week11_for_online\ClassAttemptLibrary\bin\Debug\ClassAttemptLibrary.pdb
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\Realtor_Houses_Week11_for_online\ClassAttemptLibrary\obj\Debug\ClassAttemptLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\Realtor_Houses_Week11_for_online\ClassAttemptLibrary\obj\Debug\ClassAttemptLibrary.dll
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\Realtor_Houses_Week11_for_online\ClassAttemptLibrary\obj\Debug\ClassAttemptLibrary.pdb
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\school\Realtor_Houses_Week11_for_online\ClassAttemptLibrary\bin\Debug\ClassAttemptLibrary.dll
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\school\Realtor_Houses_Week11_for_online\ClassAttemptLibrary\bin\Debug\ClassAttemptLibrary.pdb
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\school\Realtor_Houses_Week11_for_online\ClassAttemptLibrary\obj\Debug\ClassAttemptLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\school\Realtor_Houses_Week11_for_online\ClassAttemptLibrary\obj\Debug\ClassAttemptLibrary.dll
+C:\Users\Roboto\Documents\Visual Studio 2015\Projects\school\Realtor_Houses_Week11_for_online\ClassAttemptLibrary\obj\Debug\ClassAttemptLibrary.pdb
